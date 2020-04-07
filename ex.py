@@ -1,4 +1,3 @@
-
 import random as r
 score = [0]*4
 names = {0:"A",1:"B",2:"C",3:"D"}
