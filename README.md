@@ -1,9 +1,13 @@
 # Stone_Paper_Scissor_assignment
 
 Rules:
+
   ● Paper beats Rock
+  
   ● Rock beats Scissors
+  
   ● Scissors beats Paper
+
 1) All user input values are going to be generated via random numbers. No need
 for a user input mechanism.
 2) It will be a 4 player game.
