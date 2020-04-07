@@ -1,6 +1,7 @@
 # Stone_Paper_Scissor_assignment
 
-Rules -
+Rules:
+
 ● Paper beats Rock
 ● Rock beats Scissors
 ● Scissors beats Paper
