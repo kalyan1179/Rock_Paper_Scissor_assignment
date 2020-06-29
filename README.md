@@ -1,4 +1,4 @@
-# Stone_Paper_Scissor_assignment
+# Rock_Paper_Scissor_assignment
 
 Rules:
 
